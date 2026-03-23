@@ -1,0 +1,14 @@
+jupyter
+ipykernel
+pandas
+polars
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+sqlalchemy
+pymysql
+duckdb
+pyarrow
+ruff

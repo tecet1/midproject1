@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+
+# Local configuration and secrets
+.env
+.env.*
+
+# Data artifacts
+data/
+exports/
+results/
