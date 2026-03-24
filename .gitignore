@@ -5,7 +5,7 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .DS_Store
-.topic1/
+topic1/
 
 # Local configuration and secrets
 .env
