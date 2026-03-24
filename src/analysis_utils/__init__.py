@@ -1,3 +1,4 @@
+from .db import build_mysql_engine, test_mysql_connection
 from .stats import two_proportion_z_test
 from .url_funnel import (
     build_error_hotspots,
@@ -10,6 +11,8 @@ from .url_funnel import (
 )
 
 __all__ = [
+    "build_mysql_engine",
+    "test_mysql_connection",
     "two_proportion_z_test",
     "load_url_summary",
     "filter_apply_related",
