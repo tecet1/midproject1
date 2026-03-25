@@ -15,3 +15,5 @@ notebooks/parquet_logs/
 # Data artifacts
 topic1/
 notebooks/parquet_logs/
+notebooks/parquet_logs_cleaned/
+notebooks/duckDB/
