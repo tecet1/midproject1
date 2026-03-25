@@ -6,12 +6,12 @@ __pycache__/
 .ruff_cache/
 .DS_Store
 topic1/
+notebooks/parquet_logs/
 
 # Local configuration and secrets
 .env
 .env.*
 
 # Data artifacts
-data/
-exports/
-results/
+topic1/
+notebooks/parquet_logs/
