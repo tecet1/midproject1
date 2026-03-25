@@ -4,16 +4,15 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
-.DS_Store
-topic1/
-notebooks/parquet_logs/
+.DS_Store/
 
 # Local configuration and secrets
 .env
 .env.*
 
 # Data artifacts
-topic1/
+topic1_info/
+test_results/
 notebooks/parquet_logs/
 notebooks/parquet_logs_cleaned/
 notebooks/duckDB/
