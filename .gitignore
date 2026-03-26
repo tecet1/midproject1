@@ -11,6 +11,7 @@ __pycache__/
 .env.*
 
 # Data artifacts
+진행방향.txt
 topic1_info/
 test_results/
 notebooks/parquet_logs/
