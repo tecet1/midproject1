@@ -12,3 +12,6 @@ pymysql
 duckdb
 pyarrow
 ruff
+datetime
+missingno
+
