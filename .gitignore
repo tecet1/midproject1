@@ -20,4 +20,5 @@ notebooks/parquet_logs_cleaned/
 notebooks/duckDB/
 DBsources/
 EDA/outdated/
+EDA/outputs
 conventions/
